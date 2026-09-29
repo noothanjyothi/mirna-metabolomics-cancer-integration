@@ -1,0 +1,19 @@
+LOCUS       EXAMPLE_GENE          120 bp    DNA     linear   01-JAN-2024
+DEFINITION  Example cancer gene sequence.
+ACCESSION   EXAMPLE_GENE
+VERSION     EXAMPLE_GENE.1
+KEYWORDS    .
+SOURCE      Example organism
+  ORGANISM  Example organism
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Example organism"
+     gene            1..120
+                     /gene="EXAMPLE"
+     CDS             1..120
+                     /gene="EXAMPLE"
+                     /protein_id="ABC123"
+ORIGIN
+        1 atgcgtaacg ttagccgatc gttagcctag cgatcggatc gtagctagct agctagcgat
+       61 cgtagcgatc gtagctagct agcgatcgat cgttagcgat cgtagctagc
+//

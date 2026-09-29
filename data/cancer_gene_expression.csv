@@ -1,0 +1,5 @@
+gene,control,tumor
+GENE_A,10,80
+GENE_B,12,70
+GENE_C,20,60
+GENE_D,90,15
